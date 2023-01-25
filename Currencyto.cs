@@ -9,3 +9,4 @@ Ping statistics for 216.58.206.197:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 36ms, Maximum = 37ms, Average = 36ms
+muaıhfahgaw
